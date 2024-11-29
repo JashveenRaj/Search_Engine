@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Search Engine Lab that serves as the final project for the https://www.coursera.org/learn/developer-data-structures-and-algorithms/home/week/1][Data Structures and Algorithms course provided by Amazon. It demonstrates the application of key data structure concepts and algorithms to develop a basic search engine.
+This project is a Search Engine Lab that serves as the final project for the Data Structures and Algorithms course provided by Amazon( https://www.coursera.org/learn/developer-data-structures-and-algorithms/home/week/1]). It demonstrates the application of key data structure concepts and algorithms to develop a basic search engine.
 
 ## Project Features
 
